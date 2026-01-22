@@ -3,7 +3,7 @@
 [![NPM](https://img.shields.io/badge/npm-%40ShiftinBits-%23CB3837.svg?logo=npm&logoColor=white)](https://www.npmjs.com/org/shiftinbits)
 [![NPM](https://img.shields.io/badge/npm-%40ConstellationDev-%23CB3837.svg?logo=npm&logoColor=white)](https://www.npmjs.com/org/constellationdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ShiftinBits-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/company/shiftinbits)
-[![Bluesky](https://img.shields.io/badge/Bluesky-ShiftinBits-0285FF?logo=Bluesky&logoColor=white)](https://bsky.app/profile/shiftinbits.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%40shiftinbits.com-0285FF?logo=Bluesky&logoColor=white)](https://bsky.app/profile/shiftinbits.com)
 
 ### Modern Software for AI-Driven Development Teams
 
